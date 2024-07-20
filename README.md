@@ -12,10 +12,14 @@
 
 ### 2023
 - Lfs-gan: Lifelong few-shot image generation (**ICCV 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Seo_LFS-GAN_Lifelong_Few-Shot_Image_Generation_ICCV_2023_paper.html)] [[code](https://github.com/KHU-AGI/LFS-GAN)]
+- Generating Instance-level Prompts for Rehearsal-free Continual Learning (**ICCV 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Jung_Generating_Instance-level_Prompts_for_Rehearsal-free_Continual_Learning_ICCV_2023_paper.html)] [[code](https://github.com/naver-ai/dap-cl)]
+- When Prompt-based Incremental Learning Does Not Meet Strong Pretraining (**ICCV 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Tang_When_Prompt-based_Incremental_Learning_Does_Not_Meet_Strong_Pretraining_ICCV_2023_paper.html)] [[code](https://github.com/TOM-tym/APG)]
+- What does a platypus look like? Generating customized prompts for zero-shot image classification (**ICCV 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Pratt_What_Does_a_Platypus_Look_Like_Generating_Customized_Prompts_for_ICCV_2023_paper.html)] [[code](https://github.com/sarahpratt/CuPL)]
 - Poisoning Generative Replay in Continual Learning to Promote Forgetting (**ICML 2023**) [[paper](https://proceedings.mlr.press/v202/kang23c.html)] [[code](https://www.dropbox.com/scl/fo/ae954h8tsjd6z138x7yf5/ACVvowDAq4C9cjJgUXuNJKw?rlkey=nhqo08bd7tzoxd0g6w2y5oijc&e=1&st=an4xuj5w&dl=0)]
 - DDGR: Continual Learning with Deep Diffusion-based Generative Replay (**ICML 2023**) [[paper](https://proceedings.mlr.press/v202/gao23e)] [[code](https://github.com/xiaocangshengGR/DDGR)]
 - Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models (**NeurIPS 2023**) [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/376276a95781fa17c177b1ccdd0a03ac-Abstract-Conference.html)] [[code](https://github.com/clear-nus/selective-amnesia)]
 - Better Generative Replay for Continual Federated Learning (**ICLR 2023**) [[paper](https://openreview.net/forum?id=cRxYWKiTan)] [[code](https://github.com/daiqing98/FedCIL)]
+
 
 ### 2022
 - Generative Negative Text Replay for Continual Vision-Language Pretraining (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960022.pdf)]
