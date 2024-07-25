@@ -17,7 +17,7 @@
 - What does a platypus look like? Generating customized prompts for zero-shot image classification (**ICCV 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Pratt_What_Does_a_Platypus_Look_Like_Generating_Customized_Prompts_for_ICCV_2023_paper.html)] [[code](https://github.com/sarahpratt/CuPL)]
 - Poisoning Generative Replay in Continual Learning to Promote Forgetting (**ICML 2023**) [[paper](https://proceedings.mlr.press/v202/kang23c.html)] [[code](https://www.dropbox.com/scl/fo/ae954h8tsjd6z138x7yf5/ACVvowDAq4C9cjJgUXuNJKw?rlkey=nhqo08bd7tzoxd0g6w2y5oijc&e=1&st=an4xuj5w&dl=0)]
 - DDGR: Continual Learning with Deep Diffusion-based Generative Replay (**ICML 2023**) [[paper](https://proceedings.mlr.press/v202/gao23e)] [[code](https://github.com/xiaocangshengGR/DDGR)]
-- Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models (**NeurIPS 2023**) [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/376276a95781fa17c177b1ccdd0a03ac-Abstract-Conference.html)] [[code](https://github.com/clear-nus/selective-amnesia)]
+- Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models (**NeurIPS 2023**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/376276a95781fa17c177b1ccdd0a03ac-Abstract-Conference.html)] [[code](https://github.com/clear-nus/selective-amnesia)]
 - Better Generative Replay for Continual Federated Learning (**ICLR 2023**) [[paper](https://openreview.net/forum?id=cRxYWKiTan)] [[code](https://github.com/daiqing98/FedCIL)]
 
 
@@ -41,6 +41,7 @@
 - GAN memory with no forgetting (**NeurIPS 2020**) [[paper](https://papers.nips.cc/paper/2020/file/bf201d5407a6509fa536afc4b380577e-Paper.pdf)] [[code](https://github.com/MiaoyunZhao/GANmemory_LifelongLearning)]
 - Brain-inspired replay for continual learning with artificial neural networks (**Nature Communications 2020**) [[paper](https://www.nature.com/articles/s41467-020-17866-2.pdf)] [[code](https://github.com/GMvandeVen/brain-inspired-replay)]
 - Lifelong generative modeling (**Neurocomputing 2020**) [[paper](https://github.com/jramapuram/LifelongVAE)] [[code](https://www.sciencedirect.com/science/article/pii/S0925231220303623#bib0115)]
+- Catastrophic forgetting and mode collapse in GANs (**IJCNN 2020**) [[paper](https://ieeexplore.ieee.org/abstract/document/9207181)] [[code](https://github.com/htt210/CatastrophicGANCode)]
 
 
 ### 2019
