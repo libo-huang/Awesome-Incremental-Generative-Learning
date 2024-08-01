@@ -59,7 +59,7 @@
 - Memory Replay GANs: Learning to Generate New Categories without Forgetting (**NeurIPS 2018**) [[paper](https://proceedings.neurips.cc/paper/2018/hash/a57e8915461b83adefb011530b711704-Abstract.html)] [[code](https://github.com/WuChenshen/MeRGAN)]
 - Generative replay with feedback connections as a general strategy for continual learning (**arXiv 2018**) [[paper](https://arxiv.org/abs/1809.10635)] [[code](https://github.com/GMvandeVen/continual-learning)]
 - Exemplar-Supported Generative Reproduction for Class Incremental Learning (**BMVC 2018**) [[paper](http://bmvc2018.org/contents/papers/0325.pdf)] [[code](https://github.com/TonyPod/ESGR)]
-- Improving and Understanding Variational Continual Learning (**NeurIPS-W 2018**)[[paper](https://arxiv.org/pdf/1905.02099)] [[code](https://github.com/nvcuong/variational-continual-learning/tree/master/improved_ddm)]
+- Improving and Understanding Variational Continual Learning (**NeurIPS-W 2018**) [[paper](https://arxiv.org/pdf/1905.02099)] [[code](https://github.com/nvcuong/variational-continual-learning/tree/master/improved_ddm)]
 - Continual Classification Learning Using Generative Models (**NeurIPS-W 2018**) [[paper](https://arodes.hes-so.ch/record/4159?ln=en&v=pdf)]
 - Self-Supervised GAN to Counter Forgetting (**NeurIPS-W 2018**) [[paper](https://arxiv.org/pdf/1810.11598)]
 
