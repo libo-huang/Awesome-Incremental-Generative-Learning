@@ -8,6 +8,7 @@
 - eTag: Class-Incremental Learning via Embedding Distillation and Task-Oriented Generation (**AAAI 2024**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29153)] [[code](https://github.com/libo-huang/eTag)] 
 - COPAL: Continual Pruning in Large Language Generative Models (**ICML 2024**) [[paper](https://openreview.net/forum?id=Lt8Lk7IQ5b)]
 - KFC: Knowledge Reconstruction and Feedback Consolidation Enable Efficient and Effective Continual Generative Learning (**ICLR-tiny paper 2024**) [[paper](https://openreview.net/pdf?id=pVTcR8ig3R)] [[code](https://github.com/libo-huang/KFC)]
+- Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA (**TMLR 2024**) [[paper](https://openreview.net/forum?id=TZdEgwZ6f3)]
 
 
 ### 2023
