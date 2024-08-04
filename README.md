@@ -81,7 +81,7 @@
 - Catastrophic Forgetting, Rehearsal and Pseudorehearsal (**Connection Science 1995**) [[paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5ac423a83b4321b43249224fcc528bb70e086826)]
 
 
-## Contribute
+## Contribute [[chinese version](http://t.csdnimg.cn/S1rvo)]
 **1. Fork the Repository:** Click the `Fork` button in the top right corner to fork the repository to your personal GitHub account.
 
 **2. Clone the Forked Repository:** Clone the forked repository to your local machine.
