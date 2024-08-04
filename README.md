@@ -79,3 +79,35 @@
 
 ### Pre-2000
 - Catastrophic Forgetting, Rehearsal and Pseudorehearsal (**Connection Science 1995**) [[paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5ac423a83b4321b43249224fcc528bb70e086826)]
+
+
+## Contribute
+**1. Fork the Project:** Click the `Fork` button in the top right corner to fork the project to your personal GitHub account.
+
+**2. Clone the Forked Project:** Clone the forked project to your local machine:
+```bash
+git clone https://github.com/[github_user]/Awesome-Incremental-Generative-Learning.git
+cd Awesome-Incremental-Generative-Learning
+```
+
+**3. Create a New Branch:** Create a new branch in your local repository to make your changes:
+```bash
+git checkout -b local_branch
+```
+
+**4. Make and Commit Changes:** Make your changes on the new branch; then add and commit the changes:
+```bash
+# Add changes to the local markdown file
+git add .
+# Commit the changes
+git commit -m "[Description of changes, such as add 1 CVPR'24 paper]"
+```
+
+**5. Push to Your Forked Repository:** Push your local branch to your forked repository:
+```bash
+git push origin local_branch
+```
+
+**6. Create a Pull Request:** Open your personal GitHub account and find your forked project. You will see a prompt to create a `Pull Request`. Click the `Compare & Pull Request` button. Alternatively, select your branch from the left side of the project and click open pull request.
+
+Fill in the title and description for your Pull Request, then click the `Create Pull Request` button.
