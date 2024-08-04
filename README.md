@@ -25,6 +25,7 @@
 ### 2022
 - Generative Negative Text Replay for Continual Vision-Language Pretraining (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960022.pdf)]
 - Continual Sequence Generation with Adaptive Compositional Modules (**ACL 2022**) [[paper](https://aclanthology.org/2022.acl-long.255/)] [[code](https://github.com/SALT-NLP/Adaptive-Compositional-Modules)]
+- Continual Learning with Foundation Models: An Empirical Study of Latent Replay (**CoLLAs 2022**) [[paper](https://proceedings.mlr.press/v199/ostapenko22a.html)] [[code](https://github.com/oleksost/latent_CL)]
 
 ### 2021
 - Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhai_Hyper-LifelongGAN_Scalable_Lifelong_Learning_for_Image_Conditioned_Generation_CVPR_2021_paper.html)]
