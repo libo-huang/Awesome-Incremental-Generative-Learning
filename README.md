@@ -89,8 +89,8 @@
 **2. Create a New Branch:** In your forked repository, create a new branch (e.g., "libo") by using the branch selector button near the top-left (usually labeled `master` or `main`).
 
 **3. Make Your Changes:** Switch to your new branch using the same branch selector. Then, click the `Edit file` button at the top right to make your changes. Add entries in the following format:
-  ```
-  - paper_name (**journal/conference_name_in_short year**) [[paper](online_paper_link)] [[code](online_open_source_code)]
+  ```bash
+  - paper_name (**journal/conference_name year**) [[paper](online_paper_link)] [[code](online_code_link)]
   ```
 
 **4. Commit Changes:** Save your changes by clicking the `Commit changes` button in the upper-right corner. Enter a commit message (e.g., "add 1 cvpr'24 paper") and an extended description if necessary, then confirm your changes by clicking the `Commit changes` button again at the bottom right.
