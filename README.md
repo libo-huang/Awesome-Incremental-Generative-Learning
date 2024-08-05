@@ -1,16 +1,16 @@
 # Awesome Incremental / Continual / Lifelong Generative Learning
-[![Awesome](https://awesome.re/badge.svg)]()
-[<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>](#contribute-chinese-version)
+[![Awesome](https://awesome.re/badge.svg)](#pushpin-outline)
+[<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>](#books-contribute-chinese-version)
 
-## Outline
-- [Paper](#paper)
+## :pushpin: Outline
+- [Paper](#closed_book-paper)
 
   | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [Pre-2017](#pre-2017) |
 
-- [Contribute](#contribute-chinese-version)
+- [Contribute](#books-contribute-chinese-version)
 
 ---
-## Paper
+## :closed_book: Paper
 ### 2024
 - eTag: Class-Incremental Learning via Embedding Distillation and Task-Oriented Generation (**AAAI 2024**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29153)] [[code](https://github.com/libo-huang/eTag)] 
 - SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_SDDGR_Stable_Diffusion-based_Deep_Generative_Replay_for_Class_Incremental_Object_CVPR_2024_paper.html)]
@@ -93,7 +93,7 @@
 
 
 ---
-## Contribute [[chinese version](http://t.csdnimg.cn/S1rvo)]
+## :books: Contribute [[chinese version](http://t.csdnimg.cn/S1rvo)]
 **1. Fork the Repository:** Click on the `Fork` button located in the top-right corner to create a copy of the repository in your personal GitHub account.
 
 **2. Create a New Branch:** In your forked repository, create a new branch (e.g., "libo") by using the branch selector button near the top-left (usually labeled `master` or `main`).
