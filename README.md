@@ -1,5 +1,15 @@
 # Awesome Incremental / Continual / Lifelong Generative Learning
+[![Awesome](https://awesome.re/badge.svg)]()
+[<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>](#contribute-chinese-version)
 
+## Outline
+- [Paper](#paper)
+
+  | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [Pre-2017](#pre-2017) |
+
+- [Contribute](#contribute-chinese-version)
+
+---
 ## Paper
 ### 2024
 - eTag: Class-Incremental Learning via Embedding Distillation and Task-Oriented Generation (**AAAI 2024**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29153)] [[code](https://github.com/libo-huang/eTag)] 
@@ -77,7 +87,7 @@
 
 
 
-### Pre-2000
+### Pre-2017
 - Catastrophic Forgetting, Rehearsal and Pseudorehearsal (**Connection Science 1995**) [[paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5ac423a83b4321b43249224fcc528bb70e086826)]
 
 
