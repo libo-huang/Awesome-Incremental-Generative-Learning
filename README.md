@@ -81,33 +81,18 @@
 - Catastrophic Forgetting, Rehearsal and Pseudorehearsal (**Connection Science 1995**) [[paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5ac423a83b4321b43249224fcc528bb70e086826)]
 
 
+
+---
 ## Contribute [[chinese version](http://t.csdnimg.cn/S1rvo)]
-**1. Fork the Repository:** Click the `Fork` button in the top right corner to fork the repository to your personal GitHub account.
+**1. Fork the Repository:** Click on the `Fork` button located in the top-right corner to create a copy of the repository in your personal GitHub account.
 
-**2. Clone the Forked Repository:** Clone the forked repository to your local machine.
-```bash
-git clone https://github.com/[github_user]/Awesome-Incremental-Generative-Learning.git
-cd Awesome-Incremental-Generative-Learning
-```
+**2. Create a New Branch:** In your forked repository, create a new branch (e.g., "libo") by using the branch selector button near the top-left (usually labeled `master` or `main`).
 
-**3. Create a New Branch:** Create a new branch in your local repository to make your changes.
-```bash
-git checkout -b local_branch
-```
+**3. Make Your Changes:** Switch to your new branch using the same branch selector. Then, click the `Edit file` button at the top right to make your changes. Add entries in the following format:
+  ```
+  - paper_name (**journal/conference_name_in_short year**) [[paper](online_paper_link)] [[code](online_open_source_code)]
+  ```
 
-**4. Make and Commit Changes:** Make your changes on the new branch; then add and commit the changes.
-```bash
-# Add changes to the local markdown file
-git add .
-# Commit the changes
-git commit -m "[Description of changes, such as add 1 CVPR'24 paper]"
-```
+**4. Commit Changes:** Save your changes by clicking the `Commit changes` button in the upper-right corner. Enter a commit message (e.g., "add 1 cvpr'24 paper") and an extended description if necessary, then confirm your changes by clicking the `Commit changes` button again at the bottom right.
 
-**5. Push to Your Forked Repository:** Push your local branch to your forked repository.
-```bash
-git push origin local_branch
-```
-
-**6. Create a Pull Request:** Open your personal GitHub account and find your forked repository. You will see a prompt to create a `Pull request`. Click the `Compare & pull request` button. Alternatively, select your branch from the left side of the repository and click `Open pull request` in the `Contribute` drop-down button.
-
-Fill in the title and description for your pull request, then click the `Create pull request` button.
+**5. Create a Pull Request:** Go back to your forked repository and click on `Compare & pull request`. Alternatively, select your branch from the branch selector and click `Open pull request` from the `Contribute` drop-down menu. Fill out the title and description for your pull request, and click `Create pull request` to submit it.
