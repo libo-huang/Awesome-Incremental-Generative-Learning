@@ -1,6 +1,6 @@
 # Awesome Incremental / Continual / Lifelong Generative Learning
-[![Awesome](https://awesome.re/badge.svg)](#pushpin-outline)
-[<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>](#books-contribute-chinese-version)
+[![](https://awesome.re/badge.svg)](#pushpin-outline)
+[![](https://img.shields.io/badge/Contributions-Welcome-278ea5)](#clap-contribute-chinese-version)
 
 ## :pushpin: Outline
 [:closed_book: Paper](#closed_book-paper)
