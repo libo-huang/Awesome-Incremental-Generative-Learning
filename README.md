@@ -1,6 +1,9 @@
 # Awesome Incremental / Continual / Lifelong Generative Learning
-[![](https://awesome.re/badge.svg)](#pushpin-outline)
+[![](https://awesome.re/badge.svg)](#awesome-incremental--continual--lifelong-generative-learning)
+[![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](#pushpin-outline)
+[![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:www.huanglibo@gmail.com?subject=Test)
 [![](https://img.shields.io/badge/Contributions-Welcome-278ea5)](#clap-contribute-chinese-version)
+
 
 ## :pushpin: Outline
 [:closed_book: Paper](#closed_book-paper)
