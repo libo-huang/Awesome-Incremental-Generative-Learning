@@ -66,7 +66,7 @@
 - (**Nature Communications 2020**) Brain-inspired replay for continual learning with artificial neural networks [[paper](https://www.nature.com/articles/s41467-020-17866-2.pdf)] [[code](https://github.com/GMvandeVen/brain-inspired-replay)]
 - (**Neurocomputing 2020**) Lifelong generative modeling [[paper](https://github.com/jramapuram/LifelongVAE)] [[code](https://www.sciencedirect.com/science/article/pii/S0925231220303623#bib0115)]
 - (**IJCNN 2020**) Catastrophic forgetting and mode collapse in GANs [[paper](https://ieeexplore.ieee.org/abstract/document/9207181)] [[code](https://github.com/htt210/CatastrophicGANCode)]
-- (**PhD Thesis**) Continual Learning: Tackling Catastrophic Forgetting in Deep Neural Networks with Replay Processes [[paper](https://arxiv.org/pdf/2007.00487)]
+- (**PhD Thesis 2020**) Continual Learning: Tackling Catastrophic Forgetting in Deep Neural Networks with Replay Processes [[paper](https://arxiv.org/pdf/2007.00487)]
 - (**ICLR-W 2020**) Brain-like replay for continual learning with artificial neural networks [[paper](https://baicsworkshop.github.io/pdf/BAICS_8.pdf)]
 
 
