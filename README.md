@@ -120,3 +120,7 @@
 **4. Commit Changes:** Save your changes by clicking the `Commit changes` button in the upper-right corner. Enter a commit message (e.g., "add 1 cvpr'24 paper") and an extended description if necessary, then confirm your changes by clicking the `Commit changes` button again at the bottom right.
 
 **5. Create a Pull Request:** Go back to your forked repository and click on `Compare & pull request`. Alternatively, select your branch from the branch selector and click `Open pull request` from the `Contribute` drop-down menu. Fill out the title and description for your pull request, and click `Create pull request` to submit it.
+
+<div align="right">
+  <a href="#awesome-incremental--continual--lifelong-generative-learning">:top: Back to top</a>
+</div>
