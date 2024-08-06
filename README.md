@@ -4,7 +4,6 @@
 [![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:www.huanglibo@gmail.com?subject=Test)
 [![](https://img.shields.io/badge/Contributions-Welcome-278ea5)](#clap-contribute-chinese-version)
 
-
 ## :pushpin: Outline
 [:closed_book: Paper](#closed_book-paper)
 
@@ -13,6 +12,12 @@
 [:clap: Contribute](#clap-contribute-chinese-version)
 
 ---
+
+
+
+
+
+
 ## :closed_book: Paper
 ### 2024
 - eTag: Class-Incremental Learning via Embedding Distillation and Task-Oriented Generation (**AAAI 2024**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29153)] [[code](https://github.com/libo-huang/eTag)] 
@@ -42,6 +47,7 @@
 - Unified probabilistic deep continual learning through generative replay and open set recognition (**Journal of Image 2022**) [[paper](https://d1wqtxts1xzle7.cloudfront.net/92524318/pdf-libre.pdf?1665928933=&response-content-disposition=inline%3B+filename%3DUnified_Probabilistic_Deep_Continual_Lea.pdf&Expires=1722779706&Signature=LnvZgOp795QVK-4SzuUAwZLwdvIROMY~Mbzb3Q8e8cHOIwFitPMdh7wlO3fk2xY-tpu60g-KT3U3F-9oWy-X52xJ0~Dwrvet-pCZkoJffvwlfPO1rjsT1y~tpRj7O7CnU-hycrdmYo3rhg~IKHYIwUYEgYOvi1wTsj2Zl0iVMbGfJwigu3OMh0WvEgsXzHTAf9PUj~wqk8zYrUfrxjrY~SfUcqV2Z7SfAwGII8Fmixa2NiUzxRBku2CODulBNSr7hEjI52P-UIfJ3YJm42la-oS1pq9jfNZ4VUmHtO2E3V3T2UnDVv5RGjYSFyCkpyf4wHw5TWJW7atAUev1Q1pugQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)] [[code](https://github.com/MrtnMndt/OpenVAE_ContinualLearning)]
 - Continual Learning with Foundation Models: An Empirical Study of Latent Replay (**CoLLAs 2022**) [[paper](https://proceedings.mlr.press/v199/ostapenko22a.html)] [[code](https://github.com/oleksost/latent_CL)]
 
+
 ### 2021
 - Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhai_Hyper-LifelongGAN_Scalable_Lifelong_Learning_for_Image_Conditioned_Generation_CVPR_2021_paper.html)]
 - Efficient Feature Transformations for Discriminative and Generative Continual Learning (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Verma_Efficient_Feature_Transformations_for_Discriminative_and_Generative_Continual_Learning_CVPR_2021_paper.html)] [[code](https://github.com/vkverma01/EFT)]
@@ -49,9 +55,8 @@
 - CAM-GAN: Continual Adaptation Modules for Generative Adversarial Networks (**NeurIPS 2021**) [[paper](https://proceedings.neurips.cc/paper/2021/hash/8073bd4ed0fe0c330290c58056a2cd5e-Abstract.html)] [[code](https://github.com/sakshivarshney/CAM-GAN)]
 - Generative vs. Discriminative: Rethinking The Meta-Continual Learning (**NeurIPS 2021**) [[paper](https://papers.nips.cc/paper/2021/hash/b4e267d84075f66ebd967d95331fcc03-Abstract.html)] [[code](https://github.com/aminbana/GeMCL)]
 - Generative Feature Replay with Orthogonal Weight Modification for Continual Learning (**IJCNN 2021**) [[paper](https://ieeexplore.ieee.org/abstract/document/9534437/)]
+
  
-
-
 ### 2020
 - Dreaming to distill: Data-free knowledge transfer via deepinversion (**CVPR 2020**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.html)] [[code](https://github.com/NVlabs/DeepInversion)]
 - Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation (**ECCV 22020**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660392.pdf)]
@@ -73,7 +78,6 @@
 - Marginal replay vs conditional replay for continual learning (**ICANN 2019**) [[paper](https://arxiv.org/pdf/1810.12069)]
 
 
-
 ### 2018
 - Variational Continual Learning (**ICLR 2018**) [[paper](https://openreview.net/pdf?id=BkQqq0gRb)] [[code](https://github.com/nvcuong/variational-continual-learning)]
 - Memorization precedes generation: Learning unsupervised GANs with memory networks (**ICLR 2018**) [[paper](https://openreview.net/pdf?id=rkO3uTkAZ)] [[code](https://github.com/whyjay/memoryGAN)]
@@ -84,24 +88,31 @@
 - Self-Supervised GAN to Counter Forgetting (**NeurIPS-W 2018**) [[paper](https://arxiv.org/pdf/1810.11598)]
 - Generative replay with feedback connections as a general strategy for continual learning (**arXiv 2018**) [[paper](https://arxiv.org/abs/1809.10635)] [[code](https://github.com/GMvandeVen/continual-learning)]
 
+
 ### 2017
 - Continual Learning with Deep Generative Replay (**NIPS 2017**) [[paper](https://proceedings.neurips.cc/paper/2017/hash/0efbe98067c6c73dba1250d2beaa81f9-Abstract.html)]
 - Continual Learning in Generative Adversarial Nets (**arXiv 2017**) [[paper](https://arxiv.org/pdf/1705.08395)]
 
 
-
 ### Pre-2017
 - Catastrophic Forgetting, Rehearsal and Pseudorehearsal (**Connection Science 1995**) [[paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5ac423a83b4321b43249224fcc528bb70e086826)]
 
-
-
 ---
+
+
+
+
+
+
+
+
+
 ## :clap: Contribute [[chinese version](http://t.csdnimg.cn/S1rvo)]
 **1. Fork the Repository:** Click on the `Fork` button located in the top-right corner to create a copy of the repository in your personal GitHub account.
 
 **2. Create a New Branch:** In your forked repository, create a new branch (e.g., "libo") by using the branch selector button near the top-left (usually labeled `master` or `main`).
 
-**3. Make Your Changes:** Switch to your new branch using the same branch selector. Then, click the `Edit file` button at the top right to make your changes. Add entries in the following format:
+**3. Make Your Changes:** Switch to your new branch using the same branch selector. Then, click the `Edit file` button at the top right and make your changes. Add entries in the following format:
   ```bash
   - paper_name (**journal/conference_name year**) [[paper](online_paper_link)] [[code](online_code_link)]
   ```
