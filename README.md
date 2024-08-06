@@ -1,15 +1,9 @@
 # Awesome Incremental / Continual / Lifelong Generative Learning
-![](https://awesome.re/badge.svg)
-![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+[![](https://awesome.re/badge.svg)](#awesome-incremental--continual--lifelong-generative-learning)
+[![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](#pushpin-outline)
 [![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:www.huanglibo@gmail.com?subject=Test)
 [![](https://img.shields.io/badge/Contributions-Welcome-278ea5)](#clap-contribute-chinese-version)
-[![](https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99)](https://github.com/libo-huang/Awesome-Incremental-Generative-Learning/stargazers)
-
-
-
-
-
-
+[![](https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99)](https://github.com/libo-huang/Awesome-Incremental-Generative-Learning)
 
 ## :pushpin: Outline
 [:closed_book: Paper](#closed_book-paper)
