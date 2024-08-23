@@ -33,6 +33,7 @@
 - (**ICLR-tiny paper 2024**) KFC: Knowledge Reconstruction and Feedback Consolidation Enable Efficient and Effective Continual Generative Learning [[paper](https://openreview.net/pdf?id=pVTcR8ig3R)] [[code](https://github.com/libo-huang/KFC)]
 - 	(**arXiv 2024**) Diffusion Model Meets Non-Exemplar Class-Incremental Learning and Beyond [[paper](https://arxiv.org/pdf/2408.02983)]
 - 	(**arXiv 2024**) DiffClass: Diffusion-Based Class Incremental Learning [[paper](https://arxiv.org/pdf/2403.05016)]
+- 	(**arXiv 2024**) CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning [[paper](https://arxiv.org/abs/2407.15793)]
 
 
 ### 2023
