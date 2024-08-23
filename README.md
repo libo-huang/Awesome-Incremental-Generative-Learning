@@ -31,6 +31,8 @@
 - (**ACMMM 2024**) Generating Prompts in Latent Space for Rehearsal-free Continual Learning [[paper](https://openreview.net/pdf?id=6HT4jUkSRg)] [[code](https://openreview.net/forum?id=6HT4jUkSRg)]
 - (**TMLR 2024**) Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA [[paper](https://openreview.net/forum?id=TZdEgwZ6f3)]
 - (**ICLR-tiny paper 2024**) KFC: Knowledge Reconstruction and Feedback Consolidation Enable Efficient and Effective Continual Generative Learning [[paper](https://openreview.net/pdf?id=pVTcR8ig3R)] [[code](https://github.com/libo-huang/KFC)]
+- 	(**arXiv 2024**) Diffusion Model Meets Non-Exemplar Class-Incremental Learning and Beyond [[paper](https://arxiv.org/pdf/2408.02983)]
+- 	(**arXiv 2024**) DiffClass: Diffusion-Based Class Incremental Learning [[paper](https://arxiv.org/pdf/2403.05016)]
 
 
 ### 2023
