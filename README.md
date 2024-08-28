@@ -53,7 +53,7 @@
 - (**ACL 2022**) Continual Sequence Generation with Adaptive Compositional Modules [[paper](https://aclanthology.org/2022.acl-long.255/)] [[code](https://github.com/SALT-NLP/Adaptive-Compositional-Modules)]
 - (**Journal of Image 2022**) Unified probabilistic deep continual learning through generative replay and open set recognition [[paper](https://d1wqtxts1xzle7.cloudfront.net/92524318/pdf-libre.pdf?1665928933=&response-content-disposition=inline%3B+filename%3DUnified_Probabilistic_Deep_Continual_Lea.pdf&Expires=1722779706&Signature=LnvZgOp795QVK-4SzuUAwZLwdvIROMY~Mbzb3Q8e8cHOIwFitPMdh7wlO3fk2xY-tpu60g-KT3U3F-9oWy-X52xJ0~Dwrvet-pCZkoJffvwlfPO1rjsT1y~tpRj7O7CnU-hycrdmYo3rhg~IKHYIwUYEgYOvi1wTsj2Zl0iVMbGfJwigu3OMh0WvEgsXzHTAf9PUj~wqk8zYrUfrxjrY~SfUcqV2Z7SfAwGII8Fmixa2NiUzxRBku2CODulBNSr7hEjI52P-UIfJ3YJm42la-oS1pq9jfNZ4VUmHtO2E3V3T2UnDVv5RGjYSFyCkpyf4wHw5TWJW7atAUev1Q1pugQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)] [[code](https://github.com/MrtnMndt/OpenVAE_ContinualLearning)]
 - (**CoLLAs 2022**) Continual Learning with Foundation Models: An Empirical Study of Latent Replay [[paper](https://proceedings.mlr.press/v199/ostapenko22a.html)] [[code](https://github.com/oleksost/latent_CL)]
-
+- (**CoLLAs 2022**) Semantics-Driven Generative Replay for Few-Shot Class Incremental Learning [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548160)]
 
 ### 2021
 - (**CVPR 2021**) Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhai_Hyper-LifelongGAN_Scalable_Lifelong_Learning_for_Image_Conditioned_Generation_CVPR_2021_paper.html)]
