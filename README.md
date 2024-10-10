@@ -23,6 +23,7 @@
 
 ## :closed_book: Paper
 ### 2024
+- (**NeurIPS 2024**) AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation [[paper](https://arxiv.org/abs/2407.04603)][[code](https://github.com/MCG-NJU/AWT)]
 - (**AAAI 2024**) eTag: Class-Incremental Learning via Embedding Distillation and Task-Oriented Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29153)] [[code](https://github.com/libo-huang/eTag)] 
 - (**CVPR 2024**) SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_SDDGR_Stable_Diffusion-based_Deep_Generative_Replay_for_Class_Incremental_Object_CVPR_2024_paper.html)]
 - (**CVPR 2024**) Generative Multi-modal Models are Good Class Incremental Learners [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cao_Generative_Multi-modal_Models_are_Good_Class_Incremental_Learners_CVPR_2024_paper.html)] [[code](https://github.com/DoubleClass/GMM)]
