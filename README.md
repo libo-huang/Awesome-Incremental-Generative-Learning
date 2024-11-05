@@ -115,7 +115,7 @@
 
 
 
-## :clap: Contribute [[chinese version](http://t.csdnimg.cn/S1rvo)]
+## :clap: Contribute [[chinese version](https://blog.csdn.net/HLBoy_happy/article/details/140026155?fromshare=blogdetail&sharetype=blogdetail&sharerId=140026155&sharerefer=PC&sharesource=HLBoy_happy&sharefrom=from_link)]
 **1. Fork the Repository:** Click on the `Fork` button in the top-right corner to create a copy of the repository in your GitHub account.
 
 **2. Create a New Branch:** In your forked repository, create a new branch (e.g., "libo") by using the branch selector button near the top-left (usually labeled `master` or `main`).
