@@ -22,11 +22,18 @@
 
 
 ## :closed_book: Paper
+
+### 2025 
+- (**IEEE Transactions on Image Processing 2025**) MuseumMaker: Continual Style Customization Without Catastrophic Forgetting [[paper](https://ieeexplore.ieee.org/abstract/document/10965859)]
+- (**arXiv 2025**) CLoG: Benchmarking Continual Learning of Image Generation Models [[paper](https://arxiv.org/abs/2406.04584)] [[code](https://github.com/linhaowei1/CLoG)]
+
+
 ### 2024
 - (**AAAI 2024**) eTag: Class-Incremental Learning via Embedding Distillation and Task-Oriented Generation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29153)] [[code](https://github.com/libo-huang/eTag)] 
 - (**CVPR 2024**) SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_SDDGR_Stable_Diffusion-based_Deep_Generative_Replay_for_Class_Incremental_Object_CVPR_2024_paper.html)]
 - (**CVPR 2024**) Generative Multi-modal Models are Good Class Incremental Learners [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cao_Generative_Multi-modal_Models_are_Good_Class_Incremental_Learners_CVPR_2024_paper.html)] [[code](https://github.com/DoubleClass/GMM)]
 - (**CVPR 2024**) Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ye_Online_Task-Free_Continual_Generative_and_Discriminative_Learning_via_Dynamic_Cluster_CVPR_2024_paper.html)] [[code](https://github.com/dtuzi123/DCM)]
+- (**ECCV 2024**) DiffClass: Diffusion-Based Class Incremental Learning [[paper](https://link.springer.com/chapter/10.1007/978-3-031-73021-4_9)] [[code](https://github.com/cr8br0ze/DiffClass-Code)]
 - (**ICML 2024**) COPAL: Continual Pruning in Large Language Generative Models [[paper](https://openreview.net/forum?id=Lt8Lk7IQ5b)]
 - (**ACMMM 2024**) Generating Prompts in Latent Space for Rehearsal-free Continual Learning [[paper](https://openreview.net/pdf?id=6HT4jUkSRg)] [[code](https://openreview.net/forum?id=6HT4jUkSRg)]
 - (**TMLR 2024**) Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA [[paper](https://openreview.net/forum?id=TZdEgwZ6f3)]
