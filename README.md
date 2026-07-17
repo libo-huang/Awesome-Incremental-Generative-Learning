@@ -10,7 +10,7 @@
 ## :pushpin: Outline
 [:closed_book: Paper](#closed_book-paper)
 
-&emsp; [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [Pre-2017](#pre-2017) 
+&emsp; [2026](#2026) | [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [Pre-2017](#pre-2017) 
 
 [:clap: Contribute](#clap-contribute-chinese-version)
 
@@ -23,9 +23,18 @@
 
 ## :closed_book: Paper
 
+### 2026
+- (**Pattern Recognition 2026**) Learning task-shared and specific knowledge via mixture-of-experts in generative model for continual learning [[paper](https://www.sciencedirect.com/science/article/pii/S003132032600470X)] [[code](https://github.com/YanLi-LY/MoE_GMCL)]
+- (**arXiv 2026**) Feature-Space Generative Models for One-Shot Class-Incremental Learning [[paper](https://arxiv.org/abs/2601.17905)]
+
+
 ### 2025 
 - (**IEEE Transactions on Image Processing 2025**) MuseumMaker: Continual Style Customization Without Catastrophic Forgetting [[paper](https://ieeexplore.ieee.org/abstract/document/10965859)]
 - (**arXiv 2025**) CLoG: Benchmarking Continual Learning of Image Generation Models [[paper](https://arxiv.org/abs/2406.04584)] [[code](https://github.com/linhaowei1/CLoG)]
+- (**ICCV 2025**) Joint Diffusion Models in Continual Learning [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Skiers_Joint_Diffusion_Models_in_Continual_Learning_ICCV_2025_paper.html)] [[code](https://openaccess.thecvf.com/content/ICCV2025/html/Skiers_Joint_Diffusion_Models_in_Continual_Learning_ICCV_2025_paper.html)]
+- (**NeurIPS 2025**) Knowledge Graph Enhanced Generative Multi-modal Models for Class-Incremental Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/7b6d77bf723ab4fed4f88baf544683fb-Abstract-Conference.html)]
+- (**arXiv 2025**) Deep Generative Continual Learning using Functional LoRA: FunLoRA [[paper](https://arxiv.org/abs/2510.02631)]
+- (**arXiv 2025**) CCD: Continual Consistency Diffusion for Lifelong Generative Modeling [[paper](https://arxiv.org/abs/2505.11936)]
 
 
 ### 2024
